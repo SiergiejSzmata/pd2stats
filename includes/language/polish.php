@@ -5,7 +5,7 @@
 // Item descriptions identical with ingame text? Yes
 ////
 $l['language'] = 'English';
-$l['author'] = 'Tatsuto';
+$l['author'] = 'Siergiej';
 
 $l['charset'] = 'UTF-8';
 
